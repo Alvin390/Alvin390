@@ -9,7 +9,7 @@
 🏆 Leader & Communicator: Public Speaking champion and Hackathon lead, I excel at solving complex problems with user-focused tech.<br>  
   <br>
 📬 Let’s Connect: Open to internships, freelance gigs, and innovative collabs!<br> 
-📧 Email: alvinkariuki07@gmail.com  
+📧 Email: alvinkariuki07@gmail.com  <br>
 🔗 LinkedIn:https://www.linkedin.com/in/alvin-kariuki254/ <br>
 💾 GitHub: github.com/Alvin390<br></h3>
 
