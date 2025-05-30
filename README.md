@@ -1,13 +1,17 @@
-<b>Hey there, I'm Alvin Muturi Kariuki! 🚀<b>
-
-<b>💻 Full-Stack Innovator:<b> Building seamless web & mobile solutions from Nairobi, Kenya, with Kotlin, Jetpack Compose, Python, Django, and more.<br>  
+<h3><b>Hey there, I'm Alvin Muturi Kariuki! 🚀<b><br>
+<br>
+<b>💻 Full-Stack Innovator:<b> Building seamless web & mobile solutions from Nairobi, Kenya, with Kotlin, Jetpack Compose, Python, Django, and more.<br>
+  <br>
 <b>🌟 Game-Changing Projects:<b> Created PlugPoint in just 14 days to transform local trade and led a hackathon-winning Chama Management System with MPESA & PayPal, outshining 54 teams.<br>
+  <br>
 🧠 Tech Journey: Started coding at 14 during the 2020 lockdown, now exploring AI-driven projects while scaling PlugPoint to eliminate middlemen globally.<br>
+  <br>
 🏆 Leader & Communicator: Public Speaking champion and Hackathon lead, I excel at solving complex problems with user-focused tech.<br>  
+  <br>
 📬 Let’s Connect: Open to internships, freelance gigs, and innovative collabs!<br> 
 📧 Email: alvinkariuki07@gmail.com  
 🔗 LinkedIn:https://www.linkedin.com/in/alvin-kariuki254/ <br>
-💾 GitHub: github.com/Alvin390<br>
+💾 GitHub: github.com/Alvin390<br></h3>
 
 
 ## 🌐 Socials:
